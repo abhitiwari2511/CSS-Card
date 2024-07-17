@@ -1,0 +1,1 @@
+It is a simple card which is made using CSS.
